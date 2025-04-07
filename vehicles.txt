@@ -1,0 +1,12 @@
+Car Details:
+Registration: ABC123
+Color: Red
+Seats: 4
+
+Bike Details:
+Registration: XYZ789
+Color: Blue
+Engine Capacity: 150cc
+
+Car - Reg: 1002, Color: black, Seats: 2
+Bike - Reg: 111, Color: Red, Engine Capacity: 1200cc
